@@ -1,4 +1,4 @@
-def multiples_of_3_and_5(n):
+def multiplesOfThreeOrFive(n):
     sum = 0
     for i in range(n):
         if i % 3 == 0 or i % 5 == 0:
